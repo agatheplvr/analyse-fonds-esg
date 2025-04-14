@@ -1,0 +1,10 @@
+streamlit
+yahooquery
+yfinance
+pandas
+openpyxl
+plotly
+numpy
+seaborn
+matplotlib
+python-dotenv
