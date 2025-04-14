@@ -560,7 +560,6 @@ if submit:
               else:
                   st.info(f"**Score ESG moyen du portefeuille personnalisé : {score_esg_moyen:.2f}**")
 
-              st.success(f"**Score ESG moyen du portefeuille personnalisé : {score_esg_moyen:.2f}**")
               st.write(f"- Score E moyen : {score_e_moyen:.2f}")
               st.write(f"- Score S moyen : {score_s_moyen:.2f}")
               st.write(f"- Score G moyen : {score_g_moyen:.2f}")
