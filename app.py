@@ -249,7 +249,6 @@ fig_secteurs = px.bar(
 
 
 fig_secteurs.update_layout(
-   title_text=None,
    xaxis_title="Score ESG moyen",
    yaxis_title="Secteur",
    title_x=0.5,
