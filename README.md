@@ -23,4 +23,4 @@ Bienvenue dans l'application "Notre Fonds ESG" ! Ce projet a été conçu pour p
 
 Projet réalisé par Agathe Plouvier, Anna Bennaim, Arwen Scharr
 
-Lien pour accéder Streamlit Community Cloud: https://analyse-fonds-esg-finance-durablem1eif.streamlit.app/
+Lien pour accéder Streamlit Community Cloud: https://analyse-fonds-esg-m1eif-finance-durable.streamlit.app/
