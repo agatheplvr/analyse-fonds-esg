@@ -552,7 +552,13 @@ if submit:
               score_s_moyen = df_esg_personnalise['Score S'].mean()
               score_g_moyen = df_esg_personnalise['Score G'].mean()
               rendement_moyen = df_esg_personnalise['Rendement (%)'].mean()
-
+              
+              if score_esg_moyen < moyenne_esg:
+                  st.success(f"**Score ESG moyen du portefeuille personnalisé : {score_esg_moyen:.2f}**")
+              elif score_esg_moyen > moyenne_esg:
+                  st.error(f"**Score ESG moyen du portefeuille personnalisé : {score_esg_moyen:.2f}**")
+              else:
+                  st.info(f"**Score ESG moyen du portefeuille personnalisé : {score_esg_moyen:.2f}**")
 
               st.success(f"**Score ESG moyen du portefeuille personnalisé : {score_esg_moyen:.2f}**")
               st.write(f"- Score E moyen : {score_e_moyen:.2f}")
