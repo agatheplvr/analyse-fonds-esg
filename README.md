@@ -1,5 +1,3 @@
-# analyse-fonds-esg
-
 # Notre-Fonds-ESG
 
 Bienvenue dans l'application "Notre Fonds ESG" ! Ce projet a été conçu pour permettre aux utilisateurs de composer leur propre portefeuille d’investissement en fonction de critères sectoriels tout en optimisant les performances ESG (Environnement, Social, Gouvernance).
